@@ -1,0 +1,15 @@
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Application\bin\Debug\net8.0\SirnakSport.Application.deps.json
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Application\bin\Debug\net8.0\SirnakSport.Application.dll
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Application\bin\Debug\net8.0\SirnakSport.Application.pdb
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Application\bin\Debug\net8.0\SirnakSport.Domain.dll
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Application\bin\Debug\net8.0\SirnakSport.Domain.pdb
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Application\obj\Debug\net8.0\SirnakSport.Application.csproj.AssemblyReference.cache
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Application\obj\Debug\net8.0\SirnakSport.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Application\obj\Debug\net8.0\SirnakSport.Application.AssemblyInfoInputs.cache
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Application\obj\Debug\net8.0\SirnakSport.Application.AssemblyInfo.cs
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Application\obj\Debug\net8.0\SirnakSport.Application.csproj.CoreCompileInputs.cache
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Application\obj\Debug\net8.0\SirnakSp.C506356C.Up2Date
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Application\obj\Debug\net8.0\SirnakSport.Application.dll
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Application\obj\Debug\net8.0\refint\SirnakSport.Application.dll
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Application\obj\Debug\net8.0\SirnakSport.Application.pdb
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Application\obj\Debug\net8.0\ref\SirnakSport.Application.dll

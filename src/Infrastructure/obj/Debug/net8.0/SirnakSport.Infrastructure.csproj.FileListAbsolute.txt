@@ -1,0 +1,17 @@
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Infrastructure\bin\Debug\net8.0\SirnakSport.Infrastructure.deps.json
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Infrastructure\bin\Debug\net8.0\SirnakSport.Infrastructure.dll
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Infrastructure\bin\Debug\net8.0\SirnakSport.Infrastructure.pdb
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Infrastructure\bin\Debug\net8.0\SirnakSport.Application.dll
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Infrastructure\bin\Debug\net8.0\SirnakSport.Domain.dll
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Infrastructure\bin\Debug\net8.0\SirnakSport.Domain.pdb
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Infrastructure\bin\Debug\net8.0\SirnakSport.Application.pdb
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Infrastructure\obj\Debug\net8.0\SirnakSport.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Infrastructure\obj\Debug\net8.0\SirnakSport.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Infrastructure\obj\Debug\net8.0\SirnakSport.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Infrastructure\obj\Debug\net8.0\SirnakSport.Infrastructure.AssemblyInfo.cs
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Infrastructure\obj\Debug\net8.0\SirnakSport.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Infrastructure\obj\Debug\net8.0\SirnakSp.C210C33B.Up2Date
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Infrastructure\obj\Debug\net8.0\SirnakSport.Infrastructure.dll
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Infrastructure\obj\Debug\net8.0\refint\SirnakSport.Infrastructure.dll
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Infrastructure\obj\Debug\net8.0\SirnakSport.Infrastructure.pdb
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Infrastructure\obj\Debug\net8.0\ref\SirnakSport.Infrastructure.dll

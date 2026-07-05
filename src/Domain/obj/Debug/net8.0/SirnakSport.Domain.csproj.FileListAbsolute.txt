@@ -1,0 +1,11 @@
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Domain\bin\Debug\net8.0\SirnakSport.Domain.deps.json
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Domain\bin\Debug\net8.0\SirnakSport.Domain.dll
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Domain\bin\Debug\net8.0\SirnakSport.Domain.pdb
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Domain\obj\Debug\net8.0\SirnakSport.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Domain\obj\Debug\net8.0\SirnakSport.Domain.AssemblyInfoInputs.cache
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Domain\obj\Debug\net8.0\SirnakSport.Domain.AssemblyInfo.cs
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Domain\obj\Debug\net8.0\SirnakSport.Domain.csproj.CoreCompileInputs.cache
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Domain\obj\Debug\net8.0\SirnakSport.Domain.dll
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Domain\obj\Debug\net8.0\refint\SirnakSport.Domain.dll
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Domain\obj\Debug\net8.0\SirnakSport.Domain.pdb
+C:\Users\moster\.gemini\antigravity-ide\scratch\SirnakSporRezervasyonAPI\src\Domain\obj\Debug\net8.0\ref\SirnakSport.Domain.dll
